@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Multi-Tenant AI Content & Social Scheduler**
 
-- 🌱 I’m currently learning **full stack developement**
+- 🌱 I’m currently learning **fullstack developement**
 
 - 📫 How to reach me **elaichialadin1@gmail.com**
 
